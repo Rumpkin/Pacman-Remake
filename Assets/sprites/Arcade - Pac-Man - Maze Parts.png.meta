@@ -1,0 +1,3319 @@
+fileFormatVersion: 2
+guid: 6daed3c04cc804ee08f20b8a02093405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8880888549326286969
+    second: Arcade - Pac-Man - Maze Parts_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9707d6825114f3b70800000000000000
+      internalID: 8880888549326286969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079da78e7ce644349be742ab00daf634
+      internalID: -223268214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c595a9719840f8a362637e22c5c5d
+      internalID: -1209864905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e525e76a2b82548b2b2279c8423a1aad
+      internalID: -2073309574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c0c17f87464386a41fb63d2103aa5
+      internalID: -1229161623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca707ccefd6dc440fbbf7548142ac7f8
+      internalID: -1562507367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a85cd2cbdb246959e9b3223225b7d8
+      internalID: 683784300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c40ca9ed7f742c4951057e64bd31bf
+      internalID: 513739450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ec722be0904630ae222c94c489b86
+      internalID: 91540391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753858a0115049bc85b2db1348b16e7
+      internalID: -38659980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f19593ac5b4c72912bc457f8f295c
+      internalID: -315966944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75bae00852a64de2ba0ccdbad1c0960
+      internalID: 1188759524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3be61ec3d9949a2a68412048afca57
+      internalID: 1408645600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdca7ec35bf4cbb95506d3438e60f7
+      internalID: -602818001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07e3386fdef4e05a4337ab5d381c71
+      internalID: 31366665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8ecdfcec72413589a8f7bd875c16b
+      internalID: -70038623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204600dc580748d5bc9c1fad91a7e50
+      internalID: -814955454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733ebe983ba64af7809ae2f9673f85c
+      internalID: 1566897024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b547bcaf114295b2793a9c79808c5
+      internalID: 208369091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca3441ba3d94f6aab213af724a6d25
+      internalID: -1126964479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b5a73b68ba4d8c80c37f8ebaf2e7b
+      internalID: -889522409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec90ee632ca44d0abcd47cb66d3552
+      internalID: -1297820821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a37f921a024e14bc644382e11585f
+      internalID: -433822112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93f50474ea442489082b6715816857
+      internalID: -227430412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ba3610b8f04c59840ffe056cdff16
+      internalID: -382028994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c5b193f4d1478ebb91b781cd3327c
+      internalID: 1121794427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109f65943cd8486a8e8d427697a8dbe
+      internalID: -1018130747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2724556361a524229a899c7a15777acc
+      internalID: 1561350160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf5e39ad12c49bea0d6e9284a73704
+      internalID: -1831678985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4656be8bee1c478fa1b29c8850edd62
+      internalID: 241567593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cfc47e9700d4d1ebb96e4fe2ceebf7
+      internalID: 162594418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef39b21da164fd3924a1a1c23c279b
+      internalID: 346475406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd3612e9a084265b162b454d6b4143
+      internalID: 697547734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe214c825fd643e3866c3ff747b7827
+      internalID: -1268545911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a671ca01ab4074e3686cb233a5ee460a
+      internalID: 1103629372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f921450a4e754347a113c939e44e6f4
+      internalID: -1058408114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_36
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244c17bcab0a4000bb8ac722f8b7605
+      internalID: -550758022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80341de1e89c84a0baaed0d41d6496d2
+      internalID: -1275276016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde52d4ae3564261b8cf5167e49fbaa
+      internalID: 185564596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee299a25c26449ec9e7c86f641877aa
+      internalID: -1819892187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef00298086bd044fcbf6fdd6190be93c
+      internalID: -347268205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2b08e0447794aa2bb4274793b6ed3b
+      internalID: -279237040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7c5ede78d741a0bb7255dc4aa1735
+      internalID: -2016257671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd18169ee5434e94967298eeeb056f4
+      internalID: 1039418834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_44
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e20660b6e4a41fd95abfd501f9d2ca
+      internalID: 844440738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440aff4d36ff46dca2a685181c03c76
+      internalID: 17010924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c12d5453ee741fc9d80ca9ffa80e2e
+      internalID: 1720130202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15075a9ac949b4cc69a57c8195c57048
+      internalID: -1519130234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7212ad588d4c0382367a98bd6dcdc
+      internalID: 342047931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ff613c6b1b4c1383becf79bd6083f
+      internalID: -247480346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f6e3390204464cb9bec0077843355
+      internalID: -982851284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f03e43a7bfe45a3b9e588c90b6070e
+      internalID: -541275626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_52
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eef325b47c5429b865f598c6e59045
+      internalID: -1111827171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_53
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869974197cd8940cd98607e5aacf8fcd
+      internalID: 73210220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_54
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b7c1f8f9ee495eb3d98abd28da1a3
+      internalID: -1646248068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c5f0bf97df48c59295242befbab0d
+      internalID: -97794795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e136304844547479970695a75f7671
+      internalID: 1328249592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b907f986994c4ea0bdd935dcd06ca32
+      internalID: 1763741914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9801ef462f42208922ca1042e8238
+      internalID: 1306143151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a343b309ca4c4bad86265b208d8b3fa
+      internalID: -1131313794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ff577f7b6b4ed7a686a4923b83381
+      internalID: -1265948770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6206fd09dde024966b202abf63b84236
+      internalID: 1956715931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909f2c98f931447fa4fc6665a1b4fcf
+      internalID: 1442090013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa5fbc351e36444f8990e703756d3a5
+      internalID: -681034651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_64
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e2b1a9c5a94d6ab0f8e8fb3eaade2
+      internalID: -1288242396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f955fa2c2d24d5d83831f20e91f18c
+      internalID: -111667194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c66ecda929499f8461dec8d936a54
+      internalID: 965071009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef904c92019764a648380d147703ee2f
+      internalID: -371191099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a7b40471f2401f8119f0016fc2f7f
+      internalID: -748766372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb871666821d4ea6acf764bdfa70436
+      internalID: -1404149015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_70
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58715020a956427ea34a9165b03ce1b
+      internalID: -1643025601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a502ff4611c943e9be214d710ef4bf2
+      internalID: -1764231718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b0864590b945ceb316ad0c5cf7640
+      internalID: 1426040241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2f94562c77400fa8c1488b16766e1
+      internalID: 1526175910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4bd723733184cc29ca2cca0e2c33bf
+      internalID: 193043947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_75
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b16f634602f44354a14322839b40193
+      internalID: -671466668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_76
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecb37895f7a423884bb20f7b6b0f8d
+      internalID: -1723630143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a781f8ae9ab046609355f64e97a4481
+      internalID: 1277503685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425bfaf9d75194b9697de6317ae862c0
+      internalID: 1787444608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2bbc642762a4e648924db6f6682718
+      internalID: 1702227443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b7c0eae5974601b07ee6d91065213
+      internalID: 1144202757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ee55bbd1634cf79928566fd32301c
+      internalID: -220475634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67aaaaf67d254dccacc05b70421868e
+      internalID: 1651873299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ae5773f9a2424e87ff90bd3b77bbd
+      internalID: -172210395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d727a0b0054bc89cb307b84ee6779
+      internalID: 1299316007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94951b781a6542f5ae06e9ce6cd8e3b
+      internalID: -895351608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32823006e9424cf08decd53c384c209
+      internalID: -878593850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a642bbb099444808c47dedc416ae88
+      internalID: -1193655862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd656756409d04771bb9d28bca214a44
+      internalID: 123828414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc7fbe8e637d481a836403c7b447714
+      internalID: 1552211929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8c6b7d864e4591bd4bf51cfd3d8c3
+      internalID: -2138544613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_91
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258555e2f95a4d5d969315c0fdb9ea8
+      internalID: -649125626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3141835b5c94c08baae2308a8d76b4
+      internalID: -293991322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_93
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd036e0b88824cd18cf7a00059faf5b
+      internalID: -160948626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_94
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddeb2e138bd646a280bc5c792749ee3
+      internalID: -2019360359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5187a769034213a8c2fb1fad4a50a
+      internalID: -1325191691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6b2936c35ae459e8b761dc98aca378
+      internalID: -671775950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_97
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e8d88e77d1c430683b9a70f5766153
+      internalID: -1126067955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e883915eefdb4d57a1627ca6e17955c
+      internalID: -1235606606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_99
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53387ca6439f442ea2318f332c79d1c
+      internalID: -173780159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_100
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2525b568f51df45058360d5f0bd6280a
+      internalID: -563593772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_101
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9cf806a209470985240f71052f4df
+      internalID: 1712119899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_102
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511cc61a58d9e4e4ea8d60642694cf09
+      internalID: 336755648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756ceb4784344397bdbdaf1a9853616
+      internalID: 761784373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_104
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d72b2d3dd743fd8ef7d158decfcfc
+      internalID: -571178741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_105
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909ebd8b1d1e4ef592af3264cc100af
+      internalID: 164424120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_106
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d4cf81117648dc8983129ecc631c8
+      internalID: -567018667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_107
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f35b87eea8a4c249dfff0d0fe418ea
+      internalID: 230889539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_108
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab45e27c7bc404e88ea8eaec5f04a4
+      internalID: 1723130822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e530f0b01b2f43bfb877a9e28d6f76a
+      internalID: -1550571705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_110
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cbc2379034b4b769890464d8a57df0
+      internalID: -1907848720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de76bf404ab480aace6b1201868f9e
+      internalID: 1937824086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_112
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9aa5a34b53a4e718fff9e9a83828a5
+      internalID: 1422293212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_113
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeeebafb560c4c898fe0fff561c6c5c
+      internalID: 449716848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_114
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74f556da1c343f69e2f483d3cec3db
+      internalID: -1917335682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_115
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c7c1430b55145ea8c13e677e764868
+      internalID: -1163315007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_116
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f47ad262024cd29054d74bcca070f
+      internalID: -431215643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_117
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33e0529fe624104b95408e6fb41d99
+      internalID: 264743162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_118
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34729bbc17f41f9a4fc205ad0005d0
+      internalID: 978359060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802af048443d342d2959038cf5391fc3
+      internalID: -911516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_120
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681e86c3e0fb47cc808e6fec19f8f98
+      internalID: 1721223062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_121
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a6f3f603f64462aacaf401ff4a1df
+      internalID: 1031160954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_122
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9b9239f780474aa5d738a2565cb60
+      internalID: -880803987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd1b7610d204e8bb8ff7ba9620aa84
+      internalID: 542287951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_124
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3a281c1ab34d48aa89ba017897b08
+      internalID: 1940496534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_125
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321a370ac6394bb5ba05928bcb93d37
+      internalID: 275735761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_126
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f67df68adf764b6db9fa5496172fd15
+      internalID: 229103612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1f452595c274906a5b0e3fb451d41d
+      internalID: 997331792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_128
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e35fbb1d2604057aa96124090d1e76
+      internalID: 1503059618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_129
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b919d12e26426d914bddd3e28fb35
+      internalID: 1589795052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_130
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43111ccf58d4443db906d3404068b962
+      internalID: 496465722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_131
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4163e03a910b40a091c7839d2cec3e4
+      internalID: -1986070276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_132
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83085e4703d9b47db98804969a337c3c
+      internalID: -94726882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_133
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d6867f2d3b4a159e3aff1566087d6
+      internalID: 702363697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_134
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dceb35e535845ad9122bcf28ef10e8
+      internalID: 755957202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3cec7effe5047258d56e44bd306b51
+      internalID: 1886296642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_136
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82c636471c64d1e88f25da2a865008
+      internalID: -1648068941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_137
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479505bc5350a44f7a5af80840fa1163
+      internalID: -503900298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_138
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea032fa2f78f4c6e9dce93e17128995
+      internalID: -400998387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744dc10e775b546a3affb82ecfa0b384
+      internalID: 247838767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_140
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b5f11e63d334b24a0e889a0964142a
+      internalID: -1951432805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_141
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94993783cbd724e8b90d4ece35a7919d
+      internalID: -39472571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_142
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b6bc16c162457086f4a0848bde186
+      internalID: 400946628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Pac-Man - Maze Parts_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78ba073c11149e18bfa8fc8cf0d3b8
+      internalID: 1518821158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 99338a1eee981483e87c9b5bfb6f7bdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Pac-Man - Maze Parts_0: 8880888549326286969
+      Arcade - Pac-Man - Maze Parts_1: -223268214
+      Arcade - Pac-Man - Maze Parts_10: -315966944
+      Arcade - Pac-Man - Maze Parts_100: -563593772
+      Arcade - Pac-Man - Maze Parts_101: 1712119899
+      Arcade - Pac-Man - Maze Parts_102: 336755648
+      Arcade - Pac-Man - Maze Parts_103: 761784373
+      Arcade - Pac-Man - Maze Parts_104: -571178741
+      Arcade - Pac-Man - Maze Parts_105: 164424120
+      Arcade - Pac-Man - Maze Parts_106: -567018667
+      Arcade - Pac-Man - Maze Parts_107: 230889539
+      Arcade - Pac-Man - Maze Parts_108: 1723130822
+      Arcade - Pac-Man - Maze Parts_109: -1550571705
+      Arcade - Pac-Man - Maze Parts_11: 1188759524
+      Arcade - Pac-Man - Maze Parts_110: -1907848720
+      Arcade - Pac-Man - Maze Parts_111: 1937824086
+      Arcade - Pac-Man - Maze Parts_112: 1422293212
+      Arcade - Pac-Man - Maze Parts_113: 449716848
+      Arcade - Pac-Man - Maze Parts_114: -1917335682
+      Arcade - Pac-Man - Maze Parts_115: -1163315007
+      Arcade - Pac-Man - Maze Parts_116: -431215643
+      Arcade - Pac-Man - Maze Parts_117: 264743162
+      Arcade - Pac-Man - Maze Parts_118: 978359060
+      Arcade - Pac-Man - Maze Parts_119: -911516023
+      Arcade - Pac-Man - Maze Parts_12: 1408645600
+      Arcade - Pac-Man - Maze Parts_120: 1721223062
+      Arcade - Pac-Man - Maze Parts_121: 1031160954
+      Arcade - Pac-Man - Maze Parts_122: -880803987
+      Arcade - Pac-Man - Maze Parts_123: 542287951
+      Arcade - Pac-Man - Maze Parts_124: 1940496534
+      Arcade - Pac-Man - Maze Parts_125: 275735761
+      Arcade - Pac-Man - Maze Parts_126: 229103612
+      Arcade - Pac-Man - Maze Parts_127: 997331792
+      Arcade - Pac-Man - Maze Parts_128: 1503059618
+      Arcade - Pac-Man - Maze Parts_129: 1589795052
+      Arcade - Pac-Man - Maze Parts_13: -602818001
+      Arcade - Pac-Man - Maze Parts_130: 496465722
+      Arcade - Pac-Man - Maze Parts_131: -1986070276
+      Arcade - Pac-Man - Maze Parts_132: -94726882
+      Arcade - Pac-Man - Maze Parts_133: 702363697
+      Arcade - Pac-Man - Maze Parts_134: 755957202
+      Arcade - Pac-Man - Maze Parts_135: 1886296642
+      Arcade - Pac-Man - Maze Parts_136: -1648068941
+      Arcade - Pac-Man - Maze Parts_137: -503900298
+      Arcade - Pac-Man - Maze Parts_138: -400998387
+      Arcade - Pac-Man - Maze Parts_139: 247838767
+      Arcade - Pac-Man - Maze Parts_14: 31366665
+      Arcade - Pac-Man - Maze Parts_140: -1951432805
+      Arcade - Pac-Man - Maze Parts_141: -39472571
+      Arcade - Pac-Man - Maze Parts_142: 400946628
+      Arcade - Pac-Man - Maze Parts_143: 1518821158
+      Arcade - Pac-Man - Maze Parts_15: -70038623
+      Arcade - Pac-Man - Maze Parts_16: -814955454
+      Arcade - Pac-Man - Maze Parts_17: 1566897024
+      Arcade - Pac-Man - Maze Parts_18: 208369091
+      Arcade - Pac-Man - Maze Parts_19: -1126964479
+      Arcade - Pac-Man - Maze Parts_2: -1209864905
+      Arcade - Pac-Man - Maze Parts_20: -889522409
+      Arcade - Pac-Man - Maze Parts_21: -1297820821
+      Arcade - Pac-Man - Maze Parts_22: -433822112
+      Arcade - Pac-Man - Maze Parts_23: -227430412
+      Arcade - Pac-Man - Maze Parts_24: -382028994
+      Arcade - Pac-Man - Maze Parts_25: 1121794427
+      Arcade - Pac-Man - Maze Parts_26: -1018130747
+      Arcade - Pac-Man - Maze Parts_27: 1561350160
+      Arcade - Pac-Man - Maze Parts_28: -1831678985
+      Arcade - Pac-Man - Maze Parts_29: 241567593
+      Arcade - Pac-Man - Maze Parts_3: -2073309574
+      Arcade - Pac-Man - Maze Parts_30: 162594418
+      Arcade - Pac-Man - Maze Parts_31: 346475406
+      Arcade - Pac-Man - Maze Parts_32: 697547734
+      Arcade - Pac-Man - Maze Parts_33: -1268545911
+      Arcade - Pac-Man - Maze Parts_34: 1103629372
+      Arcade - Pac-Man - Maze Parts_35: -1058408114
+      Arcade - Pac-Man - Maze Parts_36: -550758022
+      Arcade - Pac-Man - Maze Parts_37: -1275276016
+      Arcade - Pac-Man - Maze Parts_38: 185564596
+      Arcade - Pac-Man - Maze Parts_39: -1819892187
+      Arcade - Pac-Man - Maze Parts_4: -1229161623
+      Arcade - Pac-Man - Maze Parts_40: -347268205
+      Arcade - Pac-Man - Maze Parts_41: -279237040
+      Arcade - Pac-Man - Maze Parts_42: -2016257671
+      Arcade - Pac-Man - Maze Parts_43: 1039418834
+      Arcade - Pac-Man - Maze Parts_44: 844440738
+      Arcade - Pac-Man - Maze Parts_45: 17010924
+      Arcade - Pac-Man - Maze Parts_46: 1720130202
+      Arcade - Pac-Man - Maze Parts_47: -1519130234
+      Arcade - Pac-Man - Maze Parts_48: 342047931
+      Arcade - Pac-Man - Maze Parts_49: -247480346
+      Arcade - Pac-Man - Maze Parts_5: -1562507367
+      Arcade - Pac-Man - Maze Parts_50: -982851284
+      Arcade - Pac-Man - Maze Parts_51: -541275626
+      Arcade - Pac-Man - Maze Parts_52: -1111827171
+      Arcade - Pac-Man - Maze Parts_53: 73210220
+      Arcade - Pac-Man - Maze Parts_54: -1646248068
+      Arcade - Pac-Man - Maze Parts_55: -97794795
+      Arcade - Pac-Man - Maze Parts_56: 1328249592
+      Arcade - Pac-Man - Maze Parts_57: 1763741914
+      Arcade - Pac-Man - Maze Parts_58: 1306143151
+      Arcade - Pac-Man - Maze Parts_59: -1131313794
+      Arcade - Pac-Man - Maze Parts_6: 683784300
+      Arcade - Pac-Man - Maze Parts_60: -1265948770
+      Arcade - Pac-Man - Maze Parts_61: 1956715931
+      Arcade - Pac-Man - Maze Parts_62: 1442090013
+      Arcade - Pac-Man - Maze Parts_63: -681034651
+      Arcade - Pac-Man - Maze Parts_64: -1288242396
+      Arcade - Pac-Man - Maze Parts_65: -111667194
+      Arcade - Pac-Man - Maze Parts_66: 965071009
+      Arcade - Pac-Man - Maze Parts_67: -371191099
+      Arcade - Pac-Man - Maze Parts_68: -748766372
+      Arcade - Pac-Man - Maze Parts_69: -1404149015
+      Arcade - Pac-Man - Maze Parts_7: 513739450
+      Arcade - Pac-Man - Maze Parts_70: -1643025601
+      Arcade - Pac-Man - Maze Parts_71: -1764231718
+      Arcade - Pac-Man - Maze Parts_72: 1426040241
+      Arcade - Pac-Man - Maze Parts_73: 1526175910
+      Arcade - Pac-Man - Maze Parts_74: 193043947
+      Arcade - Pac-Man - Maze Parts_75: -671466668
+      Arcade - Pac-Man - Maze Parts_76: -1723630143
+      Arcade - Pac-Man - Maze Parts_77: 1277503685
+      Arcade - Pac-Man - Maze Parts_78: 1787444608
+      Arcade - Pac-Man - Maze Parts_79: 1702227443
+      Arcade - Pac-Man - Maze Parts_8: 91540391
+      Arcade - Pac-Man - Maze Parts_80: 1144202757
+      Arcade - Pac-Man - Maze Parts_81: -220475634
+      Arcade - Pac-Man - Maze Parts_82: 1651873299
+      Arcade - Pac-Man - Maze Parts_83: -172210395
+      Arcade - Pac-Man - Maze Parts_84: 1299316007
+      Arcade - Pac-Man - Maze Parts_85: -895351608
+      Arcade - Pac-Man - Maze Parts_86: -878593850
+      Arcade - Pac-Man - Maze Parts_87: -1193655862
+      Arcade - Pac-Man - Maze Parts_88: 123828414
+      Arcade - Pac-Man - Maze Parts_89: 1552211929
+      Arcade - Pac-Man - Maze Parts_9: -38659980
+      Arcade - Pac-Man - Maze Parts_90: -2138544613
+      Arcade - Pac-Man - Maze Parts_91: -649125626
+      Arcade - Pac-Man - Maze Parts_92: -293991322
+      Arcade - Pac-Man - Maze Parts_93: -160948626
+      Arcade - Pac-Man - Maze Parts_94: -2019360359
+      Arcade - Pac-Man - Maze Parts_95: -1325191691
+      Arcade - Pac-Man - Maze Parts_96: -671775950
+      Arcade - Pac-Man - Maze Parts_97: -1126067955
+      Arcade - Pac-Man - Maze Parts_98: -1235606606
+      Arcade - Pac-Man - Maze Parts_99: -173780159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
